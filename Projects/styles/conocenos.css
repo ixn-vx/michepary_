@@ -1,0 +1,53 @@
+
+.parallax{
+    width: 70%;
+    position: relative;
+    top:50px;
+
+    margin-left: 100px;
+}
+#title{
+    font-size:4.7em;
+  
+    color: #262226;
+}
+header{
+    height: auto;
+}
+.img_and_text h3{
+
+text-align:left;
+font-size: 4em;
+}
+.text_title{
+    top: 0px;
+    font-size: 1.7em;
+    letter-spacing:0.3em;
+    display: flex;
+    align-items: center;
+    position: relative;
+right: 5% ;
+}
+.img_and_text{
+    display: flex;
+  justify-content:center;
+}
+.heead_img{
+    display: flex;
+    justify-content:left;
+    align-items: left;
+}
+.container_habbo{
+    display: flex;
+    flex-wrap: column;
+}
+.container_habbo {
+    display: flex;
+    flex-direction: column;
+position: relative;
+
+}
+.conocenos_container{
+    background:white;
+    height:100px;
+}
